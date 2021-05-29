@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amandazhu/amanda_ws/functional-programming-cpp/src/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+numeric
+-
+catch.hpp
+/home/amandazhu/amanda_ws/functional-programming-cpp/src/catch.hpp
+
